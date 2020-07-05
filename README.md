@@ -1,4 +1,4 @@
-# Elixir Terminal Chat Client
+# Elixir Terminal Chat Server
 
 ### Usage
 Start server with:
